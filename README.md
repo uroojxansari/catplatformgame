@@ -5,7 +5,7 @@ The game is designed using Javascript and its KaboomJS library. The goal of the 
 ## Features
 
 ### Health System
--  Manage your character's health throughout the game by dcucking and dodging enemies and traps
+-  Manage your character's health throughout the game by ducking and dodging enemies and traps
 - Engage in thrilling battles with enemies that impact your health.
 
 ### Coin System
